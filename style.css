@@ -224,3 +224,14 @@ bottom: 28px;
 color: red;
 
 }
+
+
+
+.product-title {
+    font-family: 'Lobster', cursive;
+    position: relative;
+    margin-bottom: 3px;
+    margin-left: 28px;
+    }
+
+
